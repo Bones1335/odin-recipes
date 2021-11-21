@@ -16,7 +16,7 @@ This is a basic recipes website built with HTML learned in the beginning stages 
 This project uses the following learned skills to build the website:
 
 - Basic HTML boilerplate
-    - head tag with <meta charset="utf-8"> and `title` tag
+    - head tag with `<meta charset="utf-8">` and `title` tag
     - body tag with headings, paragraphs, and lists
 - Proper website/application file structure
 - Unordered and ordered lists
